@@ -1,0 +1,270 @@
+{
+  "governorates": [
+    {
+      "name": "Al-Dayer",
+      "color": "#2563eb",
+      "farmers": [
+        {
+          "name": "Al-Izzah (61 farmers)",
+          "location": "Al-Izzah",
+          "lat": 17.274527,
+          "lng": 43.17265,
+          "count": 61
+        },
+        {
+          "name": "Khasher (128 farmers)",
+          "location": "Khasher",
+          "lat": 17.312688,
+          "lng": 43.16645,
+          "count": 128
+        },
+        {
+          "name": "Uthwan (75 farmers)",
+          "location": "Uthwan",
+          "lat": 17.335288,
+          "lng": 43.203254,
+          "count": 75
+        },
+        {
+          "name": "Al Qateel (49 farmers)",
+          "location": "Al Qateel",
+          "lat": 17.309121,
+          "lng": 43.193312,
+          "count": 49
+        },
+        {
+          "name": "Talan (125 farmers)",
+          "location": "Talan",
+          "lat": 17.401623,
+          "lng": 43.161358,
+          "count": 125
+        },
+        {
+          "name": "Habs (199 farmers)",
+          "location": "Habs",
+          "lat": 17.385273,
+          "lng": 43.198333,
+          "count": 199
+        },
+        {
+          "name": "Jabal Al-Hasher (250 farmers)",
+          "location": "Jabal Al-Hasher",
+          "lat": 17.461568,
+          "lng": 43.033745,
+          "count": 250
+        }
+      ]
+    },
+    {
+      "name": "Al-Rayth",
+      "color": "#059669",
+      "farmers": [
+        {
+          "name": "Manmanah (8 farmers)",
+          "location": "Manmanah",
+          "lat": 17.597171,
+          "lng": 42.943104,
+          "count": 8
+        },
+        {
+          "name": "Jabal Al-Qahr (48 farmers)",
+          "location": "Jabal Al-Qahr",
+          "lat": 17.653537,
+          "lng": 42.891737,
+          "count": 48
+        },
+        {
+          "name": "Al-Shamiyah (32 farmers)",
+          "location": "Al-Shamiyah",
+          "lat": 17.690264,
+          "lng": 42.888157,
+          "count": 32
+        },
+        {
+          "name": "Black Mountain (3 farmers)",
+          "location": "Black Mountain",
+          "lat": 17.587744,
+          "lng": 42.873533,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "name": "Al-Aridah",
+      "color": "#d946ef",
+      "farmers": [
+        {
+          "name": "Jabal Sala (28 farmers)",
+          "location": "Jabal Sala",
+          "lat": 17.060205,
+          "lng": 43.138734,
+          "count": 28
+        },
+        {
+          "name": "Jabal Al-Abadel (12 farmers)",
+          "location": "Jabal Al-Abadel",
+          "lat": 16.985072,
+          "lng": 43.161392,
+          "count": 12
+        }
+      ]
+    },
+    {
+      "name": "Al-Aydabi",
+      "color": "#ea580c",
+      "farmers": [
+        {
+          "name": "Jabal Samad (103 farmers)",
+          "location": "Jabal Samad",
+          "lat": 17.345246,
+          "lng": 43.033479,
+          "count": 103
+        },
+        {
+          "name": "Jabal Musaydah (39 farmers)",
+          "location": "Jabal Musaydah",
+          "lat": 17.380077,
+          "lng": 43.0477,
+          "count": 39
+        },
+        {
+          "name": "Rai (3 farmers)",
+          "location": "Rai",
+          "lat": 17.373056,
+          "lng": 43.064128,
+          "count": 3
+        }
+      ]
+    },
+    {
+      "name": "Fayfa",
+      "color": "#dc2626",
+      "farmers": [
+        {
+          "name": "Lower Mountain (159 farmers)",
+          "location": "Lower Mountain",
+          "lat": 17.243393,
+          "lng": 43.090977,
+          "count": 159
+        },
+        {
+          "name": "Upper Mountain (59 farmers)",
+          "location": "Upper Mountain",
+          "lat": 17.252659,
+          "lng": 43.108387,
+          "count": 59
+        },
+        {
+          "name": "Al-Sharqi (102 farmers)",
+          "location": "Al-Sharqi",
+          "lat": 17.261394,
+          "lng": 43.119198,
+          "count": 102
+        },
+        {
+          "name": "Al Salman (15 farmers)",
+          "location": "Al Salman",
+          "lat": 17.280987,
+          "lng": 43.114136,
+          "count": 15
+        }
+      ]
+    },
+    {
+      "name": "Harub",
+      "color": "#0891b2",
+      "farmers": [
+        {
+          "name": "Manjad (18 farmers)",
+          "location": "Manjad",
+          "lat": 17.42941,
+          "lng": 42.937284,
+          "count": 18
+        },
+        {
+          "name": "Al-Sahaleel (7 farmers)",
+          "location": "Al-Sahaleel",
+          "lat": 17.512109,
+          "lng": 42.926474,
+          "count": 7
+        },
+        {
+          "name": "Al-Juwayyin (5 farmers)",
+          "location": "Al-Juwayyin",
+          "lat": 17.536346,
+          "lng": 42.850497,
+          "count": 5
+        }
+      ]
+    }
+  ],
+  "stakeholders": [
+    {
+      "name": "MEWA Branch, Al-Aridhah",
+      "lat": 17.031002,
+      "lng": 43.101099,
+      "type": "Government"
+    },
+    {
+      "name": "MEWA Branch, Al-Edabi",
+      "lat": 17.275556,
+      "lng": 43.048342,
+      "type": "Government"
+    },
+    {
+      "name": "MEWA Branch, Al-Raith",
+      "lat": 17.617884,
+      "lng": 42.818538,
+      "type": "Government"
+    },
+    {
+      "name": "Jazan Coffee Cooperative, Addayer",
+      "lat": 17.334003,
+      "lng": 43.132207,
+      "type": "Cooperative"
+    },
+    {
+      "name": "Jazan Mountains Development Authority, Faifa",
+      "lat": 17.289503,
+      "lng": 43.142409,
+      "type": "Development Authority"
+    },
+    {
+      "name": "Sudi Coffee Company, Addayer",
+      "lat": 17.329477,
+      "lng": 43.112963,
+      "type": "Private Company"
+    },
+    {
+      "name": "Agricultural Development Fund, Faifa",
+      "lat": 17.259067,
+      "lng": 43.105600,
+      "type": "Fund"
+    },
+    {
+      "name": "Input Supply Market",
+      "lat": 17.339764,
+      "lng": 43.135558,
+      "type": "Market"
+    },
+    {
+      "name": "Input Supply Market",
+      "lat": 17.113212,
+      "lng": 42.668850,
+      "type": "Market"
+    },
+    {
+      "name": "Input Supply Market",
+      "lat": 16.965992,
+      "lng": 42.840026,
+      "type": "Market"
+    },
+    {
+      "name": "Input Supply Market",
+      "lat": 17.379179,
+      "lng": 42.545184,
+      "type": "Market"
+    }
+  ],
+  "total": 1528
+}
